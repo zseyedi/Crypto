@@ -5,7 +5,6 @@ This is a simple react project to display a list of digital currencies market da
 ## abilities:
 - simple name search
 - back to top
-<br />
 
 ### Tools: 
 - react
