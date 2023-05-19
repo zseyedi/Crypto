@@ -3,7 +3,7 @@
 This is a simple react project to display a list of digital currencies market data.
 
 ### Tools: 
--react
--vite
--tailwind css
--CoinGecko API V3
+- react
+- vite
+- tailwind css
+- CoinGecko API V3
